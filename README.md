@@ -3,6 +3,8 @@ To-do List Xamarin
 
 Projeto ToDo-List Android feito em Xamarin Visual Studio 2017
 
+Testado no emulador Genymotion API19
+
 Construir e utilizar o projeto em um celular android ou em um emulador android.
   Carregamento da Lista, 
   Ação executada pelo botão, 
